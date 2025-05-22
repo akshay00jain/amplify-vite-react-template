@@ -1,0 +1,458 @@
+{
+    "appName": "Unsaved Numbers",
+    "appDescription": "We build fast, functional, and frustration-free digital experiences. No bloated code, no outdated designs–just clean, high-performing websites that get results.",
+    "appTagline": "Because Your Website Shouldn't Suck.", 
+    "appSlogan": "Building the Web, One Pixel at a Time.", 
+    "appVersion": "v1.0.0", 
+    "appAuthor": "Gandy Labs",
+    "appAuthorWebsite": "https://gandylabs.com",
+    "user": {
+        "profile": "User Profile",
+        "editProfile": "Edit Profile",
+        "viewProfile": "View Profile",
+        "logout": "Log Out",
+        "login": "Sign In",
+        "loginTitle": "Sign In",
+        "loginSubtitle": "Welcome back! Please log in to continue.",
+        "signup": "Sign Up",
+        "password": "Password",
+        "passwordPlacholder": "Enter your password",
+        "confirmPassword": "Confirm Password",
+        "forgotPassword": "Forgot Password?",
+        "resetPassword": "Reset Password",
+        "accountSettings": "Account Settings",
+        "privacySettings": "Privacy Settings"
+    },
+    "contacts": {
+        "titlePlural": "Contacts",
+        "titleSingle": "Contact",
+        "titleOr": "Contact(s)",
+        "displayName": "Display Name",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "viewPlural": "View Contacts",
+        "viewSingle": "View Contact",
+        "all": "All Contacts",
+        "add": {
+            "button": "Add Contact",
+            "title": "Add a New Contact",
+            "subtitle": "Fill in the details to add a new contact.",
+            "sections": {
+                "basics": "The Basics",
+                "contact": "Contact Info",
+                "other": "Other Deets",
+                "socials": "Socials",
+                "tags": "Tags"
+            }
+        },
+        "insights": {
+            "title": "Contact Insights",
+            "label": "Insights",
+            "subtitle": "Your contact insights.",
+            "none": "No insights available.",
+            "byCategory": {
+                "title": "Insights By Category",
+                "label": "Categories",
+                "subtitle": "A quick look at your different contact types."
+            },
+            "byRelationship": {
+                "title": "Insights By Relationship",
+                "label": "Relationships",
+                "subtitle": "A quick look at your different relationship types."
+            },
+            "byStatus": {
+                "title": "Insights By Status",
+                "label": "Status",
+                "subtitle": "A quick look at your different contact statuses."
+            },
+            "byTags": {
+                "title": "Insights By Tags",
+                "label": "Tags",
+                "subtitle": "A quick look at your different tags."
+            },
+            "byGender": {
+                "title": "Insights By Gender",
+                "label": "Genders",
+                "subtitle": "A quick look at genders"
+            },
+            "byAge": {
+                "title": "Insights By Age",
+                "label": "Ages",
+                "subtitle": "A quick look at ages"
+            },
+            "byInteractionStyles": {
+                "title": "Insights By Interaction Styles",
+                "label": "Interaction Styles",
+                "subtitle": "A quick look at interaction styles"
+            },
+            "bySexuality": {
+                "title": "Insights By Sexuality",
+                "label": "Sexuality",
+                "subtitle": "A quick look at sexualities"
+            }
+        },
+        "updateContact": {
+            "button": "Update",
+            "title": "Update $displayName",
+            "subtitle": "Change the details to update a contact.",
+            "sections": {
+                "personal": "The Basics",
+                "contact": "Contact Info",
+                "details": "Other Deets",
+                "tags": "Tags"
+            }
+        },
+        "favorites": {
+            "title": "Favorites",
+            "label": "My Favorites",
+            "subtitle": "Your favorite contacts."
+        },
+        "recent": {
+            "title": "Recent Contacts",
+            "label": "Recent",
+            "subtitle": "Your most recently added contacts."
+        },
+        "editContact": "Update Contact",
+        "deleteContact": "Delete Contact",
+        "noContacts": "You have no saved contacts.",
+        "favorite": "Favorite",
+        "relationship": "Relationship",
+        "contactInfo": "Contact Information",
+        "socialProfiles": "Social Profiles",
+        "noSocialProfiles": "You two aren't connected socially.",
+        "metDate": "When did you meet?",
+        "metSource": {
+            "label": "Where did you meet?",
+            "placeholder": "Search app or location"
+        },
+        "genderOptions": {
+            "label": "Select their gender",
+            "placeholder": "Type or select a gender..."
+        },
+        "notes": "Notes",
+        "address": "Address",
+        "birthday": "Birthday",
+        "age": "Age",
+        "phoneNumber": "Phone Number",
+        "instagramUsername": "Instagram Username",
+        "facebookUsername": "Facebook Username",
+        "tiktokUsername": "TikTok Username",
+        "telegramUsername": "Telegram Username",
+        "kikUsername": "Kik Username",
+        "snapchatUsername": "Snapchat Username",
+        "signalPhoneNumber": "Signal #",
+        "linkedinUsername": "LinkedIn Username",
+        "xUsername": "X Username",
+        "email": "Email",
+        "addressExtended": {
+            "address1": "Address Line 1",
+            "address2": "Apt, Unit, etc",
+            "city": "City",
+            "state": "State (XX)",
+            "zip": "Zip Code (XXXXX)"
+        },
+        "sexuality": {
+            "dropdown": "Select their sexuality",
+            "label": "Sexuality"
+        },
+        "interactionStyles": {
+            "dropdown": "Search interaction styles",
+            "label": "How Is Their Interaction?"
+        },
+        "tags": {
+            "label": "Tags",
+            "dropdown": "Select tags",
+            "addTag": "Add Tag",
+            "noTags": "No tags available."
+        },
+        "profileImage": "Contact Photo",
+        "categories": {
+            "dates": "Dates",
+            "friends": "Friends",
+            "apps": "Dating Apps",
+            "family": "Family",
+            "recent": "Recent Contacts",
+            "favorites": "Favorites"
+        },
+        "relationshipDepth": {
+            "innerCircle": "Inner Circle",
+            "closeFriends": "Close Friends",
+            "acquaintances": "Acquaintances",
+            "newConnections": "New Connections",
+            "distant": "Distant",
+            "label": "Your Relationships"
+        },
+        "lastContact": "Last Contact",
+        "status": {
+            "label": "Status",
+            "dropdown": "Select status",
+            "options": {
+                "active": "Active",
+                "inactive": "Inactive",
+                "blocked": "Blocked",
+                "archived": "Archived",
+                "paused": "Paused"
+            }
+        },
+        "personalInformation": {
+            "label": "Basic Information"
+        },
+        "relatedContacts": {
+            "label": "Related Contacts",
+            "noRelatedContacts": "No related contacts found."
+        },
+        "settings": {
+            "label": "Individual Settings",
+            "notifications": "Notifications",
+            "reminders": "Reminders",
+            "privacy": "Privacy",
+            "security": "Security"
+        }
+    },
+    "activities": {
+        "titlePlural": "Activities",
+        "titleSingle": "Activity",
+        "viewPlural": "View Activities",
+        "viewSingle": "View Activity",
+        "add": {
+            "title": "Log an Activity",
+            "subtitle": "Fill in the details to add a new activity.",
+            "sections": {
+                "basics": {
+                    "title": "The Basics",
+                    "subtitle": "Fill in the details to add a new activity."
+                },
+                "whenwhere": {
+                    "title": "When & Where",
+                    "subtitle": "Where did you go and when?"
+                },
+                "whowhat": {
+                    "title": "Who & What",
+                    "subtitle": "Who were you with and what did you do?"
+                },
+                "gallery": {
+                    "title": "Gallery",
+                    "subtitle": "Add photos from this activity..."
+                },
+                "last": {
+                    "title": "Remaining details",
+                    "subtitle": "Fill in the remaining details."
+                },
+                "tags": {
+                    "title": "Tags",
+                    "dropdown": "Select tags"
+                },
+                "contacts": {
+                    "title": "Contacts",
+                    "dropdown": "Select contacts"
+                },
+                "personal": "Personal"
+            }
+        },
+        "highlights": {
+            "title": "Favorite Activities",
+            "label": "My Favorite Activities",
+            "subtitle": "Your favorite activities."
+        },
+        "activityName": "Activity Name",
+        "activityType": "Main Category",
+        "secondaryActivityTypes": "Other Categories",
+        "activityTags": "Activity Tags",
+        "activityDate": "Date & Time", 
+        "updateActivity": "Update Activity", 
+        "deletethis": "Delete This Activity",
+        "archiveActivity": "Archive Activity",
+        "noActivities": "No activities recorded yet.",
+        "recentActivities": {
+            "titleSingle": "Recent Activity",
+            "titlePlural": "Recent Activities",
+            "label": "Recent Activities",
+            "subtitle": "Your most recent activities."
+        },
+        "cost": "Cost",
+        "location": "Location",
+        "rating": "Rating",
+        "review": "Review",
+        "history": {
+            "label": "Activity History",
+            "description": "Your past activities."
+        },
+        "displayName": "Activity Name",
+        "activityCoverPhoto": "Activity Cover Photo",
+        "upcoming": {
+            "titleSingle": "Upcoming Activity",
+            "titlePlural": "Upcoming Activities",
+            "label": "Upcoming Activities",
+            "subtitle": "Your upcoming activities."
+        },
+        "byCategory": {
+            "title": "Activities By Category",
+            "label": "Categories",
+            "subtitle": "A quick look at your different activity types."
+        },
+        "insights": {
+            "title": "Activity Insights",
+            "label": "Insights",
+            "subtitle": "Your activity insights.",
+            "noInsights": "No insights available.",
+            "byCategory": {
+                "title": "Insights By Category",
+                "label": "Categories",
+                "subtitle": "A quick look at your different activity types."
+            }
+        },
+        "positions" : {
+            "label": "Positions",
+            "title": "Positions",
+            "subtitle": "Your activity positions.",
+            "noPositions": "No positions available."
+        },
+        "birthControl" : {
+            "label": "Birth Control",
+            "title": "Birth Control",
+            "subtitle": "What birth control do you use?",
+            "noBirthControl": "No birth control available."
+        }
+    },
+    "membership": {
+        "plans": "Membership Plans",
+        "currentPlan": "Current Plan",
+        "upgradePlan": "Upgrade Plan",
+        "downgradePlan": "Downgrade Plan",
+        "cancelMembership": "Cancel Membership",
+        "paymentHistory": "Payment History",
+        "billingInformation": "Billing Information",
+        "premium": "Premium Member",
+        "freePlan": "Free Plan",
+        "annualPlan": "Annual Plan",
+        "monthlyPlan": "Monthly Plan",
+        "renewSubscription": "Renew Subscription",
+        "manageBilling": "Manage Billing",
+        "paidFeature": "Enjoy this awesome feature by upgrading!"
+    },
+    "errors": {
+        "generic": "Something went wrong. Please try again.",
+        "requiredField": "This field is required.",
+        "invalidEmail": "Please enter a valid email address.",
+        "passwordMismatch": "Passwords do not match.",
+        "contactNotFound": "Contact Not Found",
+        "activityNotFound": "Activity Not Found",
+        "unauthorized": "You are not authorized to view this page.",
+        "noInternet": "No Internet Connection"
+    },
+    "notifications": {
+        "contactAdded": "Contact added successfully!",
+        "contactUpdated": "Contact updated successfully!",
+        "contactDeleted": "Contact deleted successfully.",
+        "activityAdded": "Activity added successfully!",
+        "activityDeleted": "Activity deleted successfully.",
+        "profileUpdated": "Profile updated successfully!",
+        "paymentSuccess": "Payment processed successfully!",
+        "paymentFailed": "Payment failed. Please try again.",
+        "passwordResetEmailSent": "Password reset email sent!"
+    },
+    "alerts": {
+        "confirmDeleteContact": "Are you sure you want to delete this contact?",
+        "confirmDeleteActivity": "Are you sure you want to delete this activity?",
+        "confirmCancelSubscription": "Are you sure you want to cancel your subscription?",
+        "changesSaved": "Your changes have been saved!",
+        "actionCannotBeUndone": "This action cannot be undone.",
+        "loading": "Loading"
+    },
+    "validation": {
+        "required": "This field is required.",
+        "loginError": "Login failed. Please check your credentials and try again.",
+        "invalidPassword": "Password must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one number, and one special character.",
+        "invalidEmail": "Please enter a valid email address.",
+        "invalidAge": "Contacts must be at least 18",
+        "minLength": "Must be at least {length} characters.",
+        "maxLength": "Cannot exceed {length} characters.",
+        "activityNameRequired": "Activity Name is required",
+        "activityTypeRequired": "Activity Type is required",
+        "dateTimeRequired": "Date & Time is required",
+        "costMin": "Cost cannot be negative",
+        "starRatingMin": "Minimum rating is 1 star",
+        "starRatingMax": "Maximum rating is 5 stars",
+        "displayNameRequired": "Display Name is required",
+        "displayNameMin": "Display Name must be at least 5 characters",
+        "displayNameMax": "Display Name cannot exceed 50 characters",
+
+        "firstNameMax": "First Name cannot exceed 50 characters",
+        "lastNameMax": "Last Name cannot exceed 50 characters",
+
+        "relationshipTypeRequired": "Relationship is required",
+        "metSourceRequired": "Met Location is required",
+        "genderRequired": "Gender is required",
+
+        "birthdayMax": "Birthday cannot be in the future",
+
+        "ageInteger": "Age must be an integer",
+        "ageMin": "Contacts must be at least 18",
+        "ageMax": "Are you really that old?",
+        "ageValid": "All contacts must be at least 18",
+
+        "phoneNumberFormat": "Invalid phone number format. Must be a valid international or US number.",
+
+        "emailFormat": "Invalid email format",
+        "emailMax": "Email address cannot exceed 100 characters",
+        "emailPlaceholder": "Enter email address",
+
+        "telegramUsernameFormat": "Invalid Telegram username format",
+        "kikUsernameFormat": "Invalid Kik username format",
+        "snapchatUsernameFormat": "Invalid Snapchat username format",
+        "signalPhoneNumberFormat": "Invalid Signal phone number format",
+        "instagramUsernameFormat": "Invalid Instagram username format",
+        "facebookUsernameFormat": "Invalid Facebook username format",
+        "tiktokUsernameFormat": "Invalid TikTok username format",
+
+        "address1Max": "Address 1 cannot exceed 100 characters",
+        "address2Max": "Address 2 cannot exceed 100 characters",
+        "cityMax": "City cannot exceed 50 characters",
+
+        "stateFormat": "State must be a two-letter uppercase code",
+        "zipFormat": "Invalid zip code format",
+
+        "notesMax": "Notes cannot exceed 1000 characters"
+    },
+    "general": {
+        "loading": "Loading...",
+        "noData": "No data available.",
+        "save": "Save",
+        "cancel": "Cancel",
+        "edit": "Edit",
+        "delete": "Delete",
+        "close": "Close",
+        "back": "Back",
+        "viewAll": "View All",
+        "viewMore": "View More",
+        "add": "Add",
+        "remove": "Remove",
+        "select": "Select",
+        "view": "View",
+        "search": "Search",
+        "filter": "Filter",
+        "submit": "Submit",
+        "update": "Update",
+        "upload": "Upload",
+        "download": "Download",
+        "categories": "Categories",
+        "home": "Home",
+        "dashboard": "Dashboard",
+        "settings": "Settings",
+        "help": "Help",
+        "gettingStarted": "Getting Started",
+        "faq": "FAQ",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "contactUs": "Contact Us",
+        "aboutUs": "About Us",
+        "feedback": "Feedback",
+        "support": "Support"
+    },
+    "badges": {
+        "new": "New",
+        "premium": "Premium",
+        "verified": "Verified",
+        "favorite": "Favorite"
+    }
+}
